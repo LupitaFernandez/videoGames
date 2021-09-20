@@ -5,7 +5,7 @@
  :man: Pereyra, Adrián
 
 
-## :squirrel: Temática del sitio y audiencia 
+## Temática del sitio y audiencia 
 
 El sitio es una plataforma de distribución digital de videojuegos.
 
@@ -14,7 +14,7 @@ El objetivo de la audiencia será a todas aquellas personas que esten interesada
 
 ## :clipboard: Listado de cinco páginas referentes 
 
-1. [Steam] (https://store.steampowered.com/?l=spanish)
+1. [Steam](https://store.steampowered.com/?l=spanish)
 2. [EpicGames] (https://www.epicgames.com/site/es-ES/home)
 3. [AmazonGames] (https://www.amazongames.com/en-gb)
 4. [Compragamer] (https://compragamer.com/)
